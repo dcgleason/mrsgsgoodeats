@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center bg-light-pink p-16 h-screen">
       <div className="mb-10 w-4/5 bg-white p-10 rounded-lg shadow-md">
-        <h1 className="text-5xl text-pink-custom mb-6">Mrs. G's Good Eats // Recipe of the Month</h1>
+        <h1 className="text-5xl text-pink-custom mb-6">Mrs. G&apos;s Good Eats // Recipe of the Month</h1>
         <h2 className="text-3xl text-black font-bold mb-5">Cozy October Beef Stew</h2>
         <ul className="list-disc list-inside text-lg text-gray-600 mb-5 space-y-2">
           <li>1 pound beef chuck</li>
